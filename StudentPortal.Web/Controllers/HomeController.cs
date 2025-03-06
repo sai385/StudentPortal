@@ -12,10 +12,7 @@ namespace StudentPortal.Web.Controllers
         {
             _logger = logger;
         }
-        //public HomeController(ILogger<HomeController> logger)
-        //{
-        //    _logger = logger;
-        //}
+        
 
 
         public IActionResult Index()
